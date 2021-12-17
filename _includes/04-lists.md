@@ -1,3 +1,3 @@
-*food
-*gaming
-*watching movies
+* food
+* gaming
+* watching movies
